@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Email Application</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_send">SendActivity</string>
+    <string name="title_activity_sent_mail">SentMailActivity</string>
+    <string name="title_activity_view_mail">ViewMailActivity</string>
+</resources>
